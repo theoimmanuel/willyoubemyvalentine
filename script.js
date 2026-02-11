@@ -54,16 +54,15 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
+    "Noooo bubuuu🥺",
+    "Really bubuuu???🥺🥺🥺",
+    "NOOOOO PLEASEEE",
     "Bubuuu please...🥺🥺🥺",
     "PLEASEE BUBUU🥺🥺🥺🥺🥺",
     "Say yes and dudu will be very motka",
     "Dudu very very motka",
     "DUDU VERY VERY VERY VERYY MOTKAA",
-    "Bubu beneran ya🥺🥺🥺",
-    "Say yes please!!!❤️"
+    "Kok bubu ga mau liat dudu motka🥺"
 ];
 
 let messageIndex = 0;
